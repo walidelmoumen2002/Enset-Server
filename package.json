@@ -1,7 +1,7 @@
 {
   "name": "enset-server",
   "version": "1.0.0",
-  "description": "Yooo guys ,this is the server for the enset competition, Good Luck ❤️",
+  "description": "",
   "main": "ensetServer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
